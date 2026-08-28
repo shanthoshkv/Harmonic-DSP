@@ -10,6 +10,8 @@ Instead of treating the FFT as a black-box function, Harmonic DSP lets you inter
 
 Everything runs directly in the browser with **zero backend infrastructure**.
 
+> **Note on this repository:** this repo is documentation only. The actual implementation (HTML/CSS/JS) lives in my [personal portfolio site repo](https://github.com/shanthoshkv/shanthoshkv.github.io) as `fourier_enhanced.html` and is deployed at the link below. There is no local source to clone and run from here yet.
+
 ## Live Demo
 
 **Website:** https://aboutkvs.vercel.app/fourier_enhanced.html
