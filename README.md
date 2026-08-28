@@ -583,14 +583,6 @@ The main objective was not just to make a visually impressive FFT plot, but to u
 
 ---
 
-# Live Demo
-
-Explore the complete interactive application here:
-
-**https://aboutkvs.vercel.app/fourier_enhanced.html**
-
----
-
 ## Author
 
 **Shanthosh K V**
