@@ -1,5 +1,13 @@
 # Harmonic DSP
 
+Browser-based Fourier and DSP toolkit for aerospace engineering: FFT, harmonic synthesis, STFT, Welch PSD, aliasing, blade-pass analysis.
+
+![demo](docs/demo.gif)
+
+No install: it runs in the browser with no backend. Open the live demo below.
+
+**Live demo:** https://aboutkvs.vercel.app/fourier_enhanced.html
+
 ### Fourier Analysis and Digital Signal Processing Toolkit for Aerospace Engineering
 
 **Harmonic DSP** is an interactive, browser-based signal analysis engine built to explore Fourier analysis, digital signal processing, and their applications in aerospace engineering.
